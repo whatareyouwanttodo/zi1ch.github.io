@@ -52,9 +52,9 @@
     
     
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
-    
     <category term="test" scheme="http://example.com/tags/test/"/>
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
     
     <category term="md" scheme="http://example.com/tags/md/"/>
     
@@ -78,9 +78,9 @@
     
     
     
-    <category term="instrustion" scheme="http://example.com/tags/instrustion/"/>
-    
     <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+    <category term="instrustion" scheme="http://example.com/tags/instrustion/"/>
     
   </entry>
   
